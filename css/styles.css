@@ -733,7 +733,7 @@ body {
 }
 
 input:checked + .review-form-checkbox-label .review-form-checkbox-icon {
-  background-color: var(--review-form-custom-checkbox-checked-bg, #404bbf);
+  background-color: var(--review-form-custom-checkbox-bg, #404bbf);
   border: none;
   fill: var(--review-form-checkbox-icon-color, #f4f4fd);
 }
