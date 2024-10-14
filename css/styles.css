@@ -490,6 +490,10 @@ body {
   margin-bottom: 16px;
 }
 
+.footer-form-container {
+  margin-left: 80px;
+}
+
 .form-class {
   display: flex;
   gap: 24px;
